@@ -6,7 +6,7 @@ I design and build cloud-native apps, from the API to the front end.
 - ☁️ .NET, Azure, .NET Aspire, Docker, CI/CD
 - 🖥️ Angular and React
 - 🏗️ Clean code, TDD, hexagonal architecture
-- 🤖 Learning AI on Azure (preparing the AI-200)
+- 🤖 AI on Azure
 - 🎤 Tech talks on .NET Aspire
 
 📫 [LinkedIn](https://www.linkedin.com/in/rouge-nicolas)
